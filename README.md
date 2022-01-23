@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**adriengoleb/adriengoleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Adrien Golebiewski @adriengoleb, soon engineering school graduate  in Mathematics and Computer Science applied to Data Science at EI.CNAM (Engineering School of Conservatoire National des Arts et Métiers)
 
 https://www.cnam-nouvelle-aquitaine.fr/page-site,ingenieur-informatique-big-data-ia,77 🎓
