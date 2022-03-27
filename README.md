@@ -9,3 +9,5 @@ Very enthusiastic to solve real-world problems.
 
 As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and gain new skills.
 
+💬 Currently working on a community project: IAZ, writing and organizing AI courses from A to Z for a French speaking audience :
+https://github.com/adriengoleb/ia-z
