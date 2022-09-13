@@ -1,10 +1,8 @@
-I'm Adrien Golebiewski @adriengoleb, soon engineering school graduate  in Big Data Science at EI.CNAM (Engineering School of Conservatoire National des Arts et Métiers)
-
-https://www.cnam-nouvelle-aquitaine.fr/page-site,ingenieur-informatique-big-data-ia,77 🎓
-
+I'm Adrien Golebiewski @adriengoleb, a computer science engineer specializing in Big Data 🎓 and I am doing a research master's degree in artificial intelligence at PSL University in 2022/2023.
 
 I’m passionate about Machine Learning, Statistical learning and more generally about the Artificial Intelligence (AI) and their applications.
  I never stop learning 📚. Attention is all I need.
+ 
 Very enthusiastic to solve real-world problems.
 
 As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and gain new skills.
