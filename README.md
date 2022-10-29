@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adrien Golebiewski</h1>
-<h4 align="center">I'm Adrien Golebiewski @adriengoleb, a computer science engineer specializing in Big Data 🎓 and I am doing a research master's degree in artificial intelligence at PSL University (joint program Dauphine, Mines de Paris, ENS Ulm in 2022/2023.</h4>
+<h4 align="center">I'm Adrien Golebiewski @adriengoleb, a computer science engineer specializing in Big Data 🎓 and I am doing a research master's degree in artificial intelligence at PSL University (joint program Dauphine, Mines de Paris, ENS Ulm) in 2022/2023.</h4>
 
 ![Profile views](https://gpvc.arturio.dev/adriengoleb)
 
