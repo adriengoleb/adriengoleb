@@ -1,11 +1,9 @@
-I'm Adrien Golebiewski @adriengoleb, a computer science engineer specializing in Big Data 🎓 and I am doing a research master's degree in artificial intelligence at PSL University in 2022/2023.
+<h1 align="center">Hi, I'm Adrien Golebiewski</h1>
+<h3 align="center">Researcher in Self Supervised learning, and computational biology</h3>
 
-I’m passionate about Machine Learning, Statistical learning and more generally about the Artificial Intelligence (AI) and their applications.
- I never stop learning 📚. Attention is all I need.
- 
-Very enthusiastic to solve real-world problems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihabbendidi&label=Profile%20views&color=0e75b6&style=flat" alt="ihabbendidi" /> </p>
 
-As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and gain new skills.
 
-💬 Currently working on a community project: IAZ, writing and organizing AI courses from A to Z for a French speaking audience :
-https://github.com/adriengoleb/ia-z
+- 🔭 I’m currently working on **Research in self supervised learning learning and computational biology**
+
+- 📫 How to reach me **bendidiihab@gmail.com**
