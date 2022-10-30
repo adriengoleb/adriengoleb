@@ -7,6 +7,12 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 
 
-- 🔭 I’m currently working on training differents neural networks structures (RNN,CNN) for a **music genre differentiation** and **working on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z
+- 🔭 Outside of my school classes, I’m currently working on training differents neural networks structures (RNN,CNN) for a **music genre differentiation** and **working on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z
 
-- 📫 How to reach me **adrien.golebiewski@laposte.net**
+
+
+- 📫 How to reach me ? 
+
+**adrien.golebiewski@laposte.net**
+
+<a href="[https://linkedin.com/in/mikailduzenli](https://www.linkedin.com/in/adrien-golebiewski-239495158/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikailduzenli" height="30" width="40" /></a>
