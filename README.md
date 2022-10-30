@@ -24,7 +24,7 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 <br>
 
-*   🤝  I'm open to collaborating on meaningful projects
+*   🤝  I'm open to collaborating on meaningful AI projects
 
 <br>
 
