@@ -12,7 +12,7 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 <br>
 
 
-*   🌍  I'm based in Paris.
+*   🌍  I'm based in **Paris**.
 
 <br>
 
@@ -20,7 +20,7 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 <br>
 
-*   🔭 Outside of my school classes, I’m currently working on training differents neural networks structures (RNN,CNN) for a **music genre differentiation** and **working            on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z
+*   🔭 Outside of my school classes, I’m currently working on training differents neural networks structures (RNN,CNN) for a music genre differentiation and **working            on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z
 
 <br>
 
@@ -28,7 +28,7 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 <br>
 
-*   🔎  As part of my master Degree, I am looking for a 5-month internship as an AI R&D Engineer or AI Researcher starting in April 2023 (duration : 5 months)
+*   🔎  As part of my master Degree, **I am looking for a 5-month internship as an AI R&D Engineer or AI Researcher starting in April 2023 (duration : 5 months)**
 
 <br>
 
@@ -40,7 +40,7 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 <br>
 
-On my github profile, you will find mostly projects and other implementations related to data science and artificial intelligence. Either: 
+On my github profile, **you will find mostly projects and other implementations related to data science and artificial intelligence**. Either: 
 
 * Academic projects 
 * Personal projects
