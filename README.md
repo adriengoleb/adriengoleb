@@ -16,7 +16,7 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 <br>
 
-*   🧠  Recently graduated, I'am very enthusiastic to solve real-world problems. As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and            gain new skills.I never stop learning 📚. 
+*   🧠  Recently graduated, I'am very enthusiastic to solve real-world problems. As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and            gain new skills. I never stop learning 📚. 
 
 <br>
 
