@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adrien Golebiewski</h1>
-<h4 align="center">I'm Adrien Golebiewski @adriengoleb, a computer science engineer specializing in Big Data/Data Science 🎓 and I am doing a research master's degree in artificial intelligence at PSL University (joint program Dauphine, Mines de Paris, ENS Ulm) in 2022/2023. As part of my master degree, I am looking for internship opportunities in the field of artificial intelligence on R&D research positions.</h4>
+<h4 align="center">I'm Adrien Golebiewski @adriengoleb, a computer science engineer specializing in Big Data/Data Science 🎓 and I am doing a research master's degree in artificial intelligence at PSL University (joint program Dauphine, Mines de Paris, ENS Ulm) in 2022/2023. 
 
 <br>
 
@@ -25,10 +25,6 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 <br>
 
 *   🤝  I'm open to collaborating on meaningful AI projects
-
-<br>
-
-*   🔎  As part of my master Degree, **I am looking for a 5-month internship as an AI R&D Engineer or AI Researcher starting in April 2023 (duration : 5 months)**
 
 <br>
 
