@@ -28,9 +28,18 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 <br>
 
-*   📫 How to reach me ? 
+*  📫 How to reach me
 
-<a href="https://www.linkedin.com/in/adrien-golebiewski-239495158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikailduzenli" height="30" width="40" /></a>
+<p align="left">
+  <a href="mailto:adrien.golebiewski@laposte.net">
+    Mail
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/adrien-golebiewski-239495158/" target="blank">
+    Linkedin
+  </a>
+  &nbsp;
+</p>
 
 <br>
 
