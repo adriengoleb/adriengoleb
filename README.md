@@ -42,11 +42,3 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 </p>
 
 <br>
-
-On my github profile, **you will find mostly projects and other implementations related to data science and artificial intelligence**. Either: 
-
-* Academic projects 
-* Personal projects
-* Collaborative projects
-
-If you have any question, please contact me.
