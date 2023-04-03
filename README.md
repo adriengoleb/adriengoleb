@@ -28,7 +28,7 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 <br>
 
-*  📫 How to reach  :
+*  📫 How to reach me :
 
 <p align="left">
   <a href="mailto:adrien.golebiewski@laposte.net">
