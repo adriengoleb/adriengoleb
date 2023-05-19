@@ -7,7 +7,7 @@
 
 <br>
 
-I’m passionate about Machine Learning and more generally about the Artificial Intelligence (AI) and their applications in Computer Vision. I am particularly interested in Deep Learning technologies and by the **frugal AI** with low or no labels and its learning strategies associated : domain adaptation, self supervision, n-shot learning...
+I’m passionate about Machine Learning and more generally about the Artificial Intelligence (AI) and their applications in Computer Vision. I am particularly interested in Deep Learning technologies and by the **frugal AI** with low or no labels and its learning strategies associated : **domain adaptation**, self supervision, n-shot learning...
 
 <br>
 
