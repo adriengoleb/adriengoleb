@@ -15,11 +15,6 @@ I’m passionate about Machine Learning and more generally about the Artificial 
 
 <br>
 
-
-*   🌍  I'm based in **Paris**.
-
-<br>
-
 *   🧠  I'am very enthusiastic to solve real-world problems. As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and            gain new skills. I never stop learning 📚. 
 
 <br>
