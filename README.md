@@ -7,7 +7,8 @@
 
 <br>
 
-I’m passionate about Machine Learning, Statistical learning and more generally about the Artificial Intelligence (AI) and their applications. I would like to use my skills acquired in AI during my studies to work in the field of applied research in companies. I am particularly interested in Deep Learning technologies to answer industrial and/or environmental problems.
+I’m passionate about Machine Learning and more generally about the Artificial Intelligence (AI) and their applications in Computer Vision. I am particularly interested in Deep Learning technologies and by the **frugal AI** with low or no labels and its learning strategies associated : domain adaptation, self supervision, n-shot learning...
+I am also looking for a **Cifre thesis contract** for the year 2023 in these fields.
 
 <br>
 
@@ -16,11 +17,11 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 
 <br>
 
-*   🧠  Recently graduated, I'am very enthusiastic to solve real-world problems. As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and            gain new skills. I never stop learning 📚. 
+*   🧠  I'am very enthusiastic to solve real-world problems. As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and            gain new skills. I never stop learning 📚. 
 
 <br>
 
-*   🔭 Outside of my school classes, I’m currently working on training differents neural networks structures (RNN,CNN) for a music genre differentiation and **working            on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z
+*   🔭 I’m currently doing a research intership in Safran Tech and I'm working on the adaptation of deep learning model on segmentation tasks applied to adverse conditions in the autonomous vehicle field. In parallel, I'm **working on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z and participate to writing scientific articles on "**la revue IA**" about frugal AI and Domain adaptation. I continue to improve my skills in data analysis through different projects 
 
 <br>
 
@@ -31,7 +32,7 @@ I’m passionate about Machine Learning, Statistical learning and more generally
 *  📫 How to reach me :
 
 <p align="left">
-  <a href="mailto:adrien.golebiewski@laposte.net">
+  <a href="mailto:adriengolebiewski@gmail.com">
     Mail
   </a>
   &nbsp;
