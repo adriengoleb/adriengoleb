@@ -11,7 +11,7 @@ I’m passionate about Machine Learning and more generally about the Artificial 
 
 <br>
 
-I am also looking for a **Cifre thesis contract** for the year 2023 in these fields.
+* 🔎 I am also looking for a **Cifre thesis contract** for the year 2023 in these fields.
 
 <br>
 
@@ -24,7 +24,7 @@ I am also looking for a **Cifre thesis contract** for the year 2023 in these fie
 
 <br>
 
-*   🔭 I’m currently doing a research intership in Safran Tech and I'm working on the adaptation of deep learning model on segmentation tasks applied to adverse conditions in the autonomous vehicle field. In parallel, I'm **working on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z and participate to writing scientific articles on "**la revue IA**" about frugal AI and Domain adaptation. I continue to improve my skills in data analysis through different projects 
+*   🔭 I’m currently doing a research intership in Safran Tech and I'm working on the adaptation of deep learning model on segmentation tasks applied to adverse conditions in the autonomous vehicle field. In parallel, I'm **working on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z and participate to writing scientific articles on "**la revue IA**" https://larevueia.fr/ about frugal AI and Domain adaptation. I continue to improve my skills in data analysis through different projects 
 
 <br>
 
