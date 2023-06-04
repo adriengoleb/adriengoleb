@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Adrien Golebiewski</h1>
 <h4 align="center">I'm Adrien Golebiewski @adriengoleb, a computer science engineer, Data Science Graduate🎓 and I am doing a research master's degree in artificial intelligence at PSL University (joint program Dauphine, Mines de Paris, ENS Ulm) in 2022/2023. </h4>
 
-<br>
-
-![Profile views](https://gpvc.arturio.dev/adriengoleb)
-
-<br>
 
 I’m passionate about Machine Learning and more generally about the Artificial Intelligence (AI) and their applications in the Computer vision and NLP fields (Visual Question Answering). I am particularly interested in Deep Learning technologies and their interpretabilities. Sensitive to the **frugal AI** and the **trustworthy ia**, AI for mission-critical systems is an exciting subject in the industry field.
 
