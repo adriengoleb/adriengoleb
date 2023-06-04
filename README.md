@@ -7,11 +7,13 @@
 
 <br>
 
-I’m passionate about Machine Learning and more generally about the Artificial Intelligence (AI) and their applications in Computer Vision. I am particularly interested in Deep Learning technologies and by the **frugal AI** with low or no labels and its learning strategies associated : **domain adaptation**, self supervision, n-shot learning...
+I’m passionate about Machine Learning and more generally about the Artificial Intelligence (AI) and their applications in the Computer vision and NLP fields (Visual Question Answering). I am particularly interested in Deep Learning technologies and their interpretabilities. Sensitive to the **frugal AI** and the **trustworthy ia**, AI for mission-critical systems is an exciting subject in the industry field.
+
+Particularly interested to the weakly supervised learning strategies  : **domain adaptation**, self supervision, n-shot learning...
 
 <br>
 
-* 🔎 I am also looking for a **Cifre thesis contract** for the year 2023 in these fields.
+* 🔎 I am also looking for a position as an **AI Research Engineer R&D/R&T** for the year 2023 in these fields.
 
 <br>
 
