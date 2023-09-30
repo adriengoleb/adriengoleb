@@ -10,7 +10,7 @@ Particularly interested to the weakly supervised learning strategies  : **domain
 
 <br>
 
-* 🔎 I am also looking for a position as an **AI Research Engineer R&D/R&T** or **AI Engineer** for the year 2023 in these fields.
+* 🔎 I am also looking for a position as an **AI Research Engineer R&D/R&T** or **AI Engineer** for the year 2023/2024 in these fields.
 
 <br>
 
