@@ -18,7 +18,7 @@ Particularly interested to the weakly supervised learning strategies  : **domain
 
 <br>
 
-*   🔭 I’m currently doing a research intership in Safran Tech and I'm working on the adaptation of deep learning model on segmentation tasks applied to adverse conditions in the autonomous vehicle field. In parallel, I'm **working on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z and participate to writing scientific articles on "**la revue IA**" https://larevueia.fr/ about frugal AI and Domain adaptation. I continue to improve my skills in data analysis through different projects in the sport field.
+*   🔭 I'm **working on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z and participate to writing scientific articles on "**la revue IA**" https://larevueia.fr/ about frugal AI and Domain adaptation. I continue to improve my skills in data analysis through different projects in the sport field.
 
 <br>
 
