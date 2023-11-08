@@ -10,7 +10,7 @@ Particularly interested to the weakly supervised learning strategies  : **domain
 
 <br>
 
-* 🔎 I am also looking for a position as an **AI Engineer** for Data Science and Machine learning missions in industry and aeronautical fields ✈️
+* 🔎 I am looking for a position as an **AI Engineer** for Data Science and Machine learning missions in industry and aeronautical fields ✈️
 <br>
 
 *   🧠  I'am very enthusiastic to solve real-world problems. As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and            gain new skills. I never stop learning 📚. 
