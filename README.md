@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=adriengoleb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-I’m passionate about Data Science, Machine Learning and more generally about the Artificial Intelligence (AI) and their applications in the Computer vision and NLP fields (Visual Question Answering). I am particularly interested in Deep Learning technologies and their interpretabilities. Sensitive to the **frugal AI** and the **trustworthy AI**, AI for mission-critical systems is an exciting subject in the industry field.
+I’m passionate about Data Science, Machine Learning and more generally about the Artificial Intelligence (AI) and their applications in the Computer Vision fields. I am particularly interested in Deep Learning technologies and their interpretabilities. Sensitive to the **frugal AI** and the **trustworthy AI**, AI for mission-critical systems is an exciting subject in the industry field.
 
 Particularly interested to the weakly supervised learning strategies  : **domain adaptation**, self supervision, n-shot learning...
 
