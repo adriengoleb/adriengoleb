@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adrien Golebiewski</h1>
-<h4 align="center">I'm Adrien Golebiewski @adriengoleb, a computer science engineer, Data Science Graduate🎓 and I am doing a research master's degree in artificial intelligence at PSL University (joint program Dauphine, Mines de Paris, ENS Ulm) in 2022/2023. </h4>
+<h4 align="center">I'm Adrien Golebiewski @adriengoleb, a computer science engineer, graduated from EICNAM engineering school and from a research master's degree in artificial intelligence at PSL University (joint program Dauphine, Mines de Paris, ENS Ulm) in 2022/2023. </h4>
 
 [![](https://visitcount.itsvg.in/api?id=adriengoleb&icon=0&color=0)](https://visitcount.itsvg.in)
 
