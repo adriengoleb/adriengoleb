@@ -8,11 +8,6 @@ I’m passionate about Data Science, Machine Learning and more generally about t
 
 Particularly interested to the weakly supervised learning strategies  : **domain adaptation**, self supervision, n-shot learning...
 
-<br>
-
-* 🔎 I am looking for a position as an **AI Engineer** or **PHD** position for Data Science and Machine learning missions in industry and aeronautical fields ✈️
-<br>
-
 *   🧠  I'am very enthusiastic to solve real-world problems. As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and            gain new skills. I never stop learning 📚. 
 
 <br>
