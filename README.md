@@ -9,11 +9,6 @@ I’m passionate about Data Science, Machine Learning and more generally about t
 Particularly interested to the weakly supervised learning strategies  : **domain adaptation**, self supervision, n-shot learning...
 
 *   🧠  I'am very enthusiastic to solve real-world problems. As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and            gain new skills. I never stop learning 📚. 
-
-<br>
-
-*   🔭 I'm **working on a community project: IAZ, writing and organizing AI courses from A to Z** for a French speaking audience : https://github.com/adriengoleb/ia-z and participate to writing scientific articles on "**la revue IA**" https://larevueia.fr/ about frugal AI and Domain adaptation. I continue to improve my skills in data analysis through different projects in the sport field.
-
 <br>
 
 *   🤝  I'm open to collaborating on meaningful AI projects
